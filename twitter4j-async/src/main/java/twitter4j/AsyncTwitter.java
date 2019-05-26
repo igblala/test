@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-//pepe
 package twitter4j;
 
 import twitter4j.api.*;
